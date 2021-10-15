@@ -17,4 +17,5 @@ https://mnhfn8hj.atlassian.net/jira/software/projects/BUL/boards/1
 
 
 Tip) 15th Oct
+
 I used html tag to reduce the size of the image. Existing methods such as {:width="100" height="100"} are no longer supported.
