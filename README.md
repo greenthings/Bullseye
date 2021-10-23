@@ -20,6 +20,11 @@ https://www.figma.com/file/3MBMeYd2hP4rajTbHnZL0z/Bullseye?node-id=6%3A318
 <img src=https://user-images.githubusercontent.com/69499549/137445436-6fead735-08c6-469b-80df-d957a9bc1a19.png width="500">
 </p>
 
+# Third Result
+<p align = "center">
+<img src=https://user-images.githubusercontent.com/69499549/138547709-3757b92e-c975-420b-ba4f-776d46711543.png width="500">
+</p>
+
 
 Tip) 15th Oct
 
