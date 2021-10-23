@@ -26,6 +26,16 @@ https://www.figma.com/file/3MBMeYd2hP4rajTbHnZL0z/Bullseye?node-id=6%3A318
 </p>
 
 
+# Fourth Result
+<p align = "center">
+<img src=https://user-images.githubusercontent.com/69499549/138555822-6f9fd150-249d-442f-a8ab-83114a38056a.png width="500">
+</p>
+
+
+
+
+
+
 Tip) 15th Oct
 
 I used html tag to reduce the size of the image in READ.md. Existing methods such as {:width="100" height="100"} are no longer supported.
