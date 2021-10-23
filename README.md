@@ -26,36 +26,40 @@ https://www.figma.com/file/3MBMeYd2hP4rajTbHnZL0z/Bullseye?node-id=6%3A318
 5. Add a "Hit me" button
 
 
+# Second Result
 <p align = "center">
 <img src=https://user-images.githubusercontent.com/69499549/137445436-6fead735-08c6-469b-80df-d957a9bc1a19.png width="500">
 </p>
 
 6. Style the text line like Luck's Design
+
 7. Show a popup when the user taps the "Hit Me" Button
+
 8. Read the value of the slider after the user taps the "Hit Me" Button
-9. Generate a random number for the target value
-10. Caculate and display the score
 
 
-
-# Second Result
 # Third Result
 <p align = "center">
 <img src=https://user-images.githubusercontent.com/69499549/138547709-3757b92e-c975-420b-ba4f-776d46711543.png width="500">
 </p>
-10. Implement multiple rounds
+
+9. Generate a random number for the target value
+
+10. Caculate and display the score
+
+11. Implement multiple rounds
+
 
 # Fourth Result
 <p align = "center">
 <img src=https://user-images.githubusercontent.com/69499549/138555822-6f9fd150-249d-442f-a8ab-83114a38056a.png width="500">
 </p>
 
-11. Implement restarting the game
-12. Add the leaderboard screen
-13. make the app look pretty
+12. Implement restarting the game
 
+13. Add the leaderboard screen
 
-
+14. make the app look pretty
 
 Tip) 15th Oct
 
