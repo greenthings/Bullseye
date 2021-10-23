@@ -22,8 +22,8 @@ struct ContentView: View {
                 HitMeButton(alertIsVisible: $alertIsVisible, sliderValue: $sliderValue, game: $game)
             }
         }
-           
-        }
+        
+    }
     
 }
 
@@ -47,7 +47,7 @@ struct HitMeButton: View{
             ZStack {
                 Color("ButtonColor")
                 LinearGradient(gradient: Gradient(colors: [Color.white.opacity(0.4), Color.clear]), startPoint: .top, endPoint: .bottom)
-
+                
             }
         )
         .foregroundColor(Color.white)
@@ -57,11 +57,11 @@ struct HitMeButton: View{
                 .strokeBorder(Color.white,lineWidth: 2.0)
         )
         .alert(isPresented: $alertIsVisible,
-            content: {
+               content: {
                 let roundedVaule: Int = Int(self.sliderValue.rounded())
                 return Alert(title: Text("THE SLIDERS VALUE IS"), message: Text("You scored \(roundedVaule)." + "You scored \(self.game.point(sldierValue: roundedVaule)) points this round"), dismissButton: .default(Text("Start New Round")))
-            
-        })
+                
+               })
         
     }
 }
@@ -102,6 +102,6 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
             .preferredColorScheme(.dark)
             .previewLayout(.fixed(width: 568, height: 320))
-            
+        
     }
 }
