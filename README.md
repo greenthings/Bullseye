@@ -14,19 +14,26 @@ https://www.figma.com/file/3MBMeYd2hP4rajTbHnZL0z/Bullseye?node-id=6%3A318
 <p align = "center">
 <img src=https://user-images.githubusercontent.com/69499549/137239318-7e183db9-8b85-4a3f-9812-d60ff7f07ca9.png width="500">
 </p>
-1. Add an instruction label
-2. Add a target label
-3. Add a slider and make it go between the value 1 to 100
-4. Add a "Hit me" button
-5. Style the text line like Luck's Design
+1. Make project
+
+2. Add an instruction label
+
+3. Add a target label
+
+4. Add a slider and make it go between the value 1 to 100
+
+5. Add a "Hit me" button
+
 
 <p align = "center">
 <img src=https://user-images.githubusercontent.com/69499549/137445436-6fead735-08c6-469b-80df-d957a9bc1a19.png width="500">
 </p>
-6. Show a popup when the user taps the "Hit Me" Button
-7. Read the value of the slider after the user taps the "Hit Me" Button
-8. Generate a random number for the target value
-9. Caculate and display the score
+
+6. Style the text line like Luck's Design
+7. Show a popup when the user taps the "Hit Me" Button
+8. Read the value of the slider after the user taps the "Hit Me" Button
+9. Generate a random number for the target value
+10. Caculate and display the score
 
 
 
