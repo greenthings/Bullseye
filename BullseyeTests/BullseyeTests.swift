@@ -20,8 +20,7 @@ class BullseyeTests: XCTestCase {
     override func tearDownWithError() throws {
         // Put teardown code here. This method is called after the invocation of each test method in the class.
         game = nil
-    }
-
+    }               
 //    func testExample() throws {
 //        // This is an example of a functional test case.
 //        // Use XCTAssert and related functions to verify your tests produce the correct results.
@@ -44,9 +43,12 @@ class BullseyeTests: XCTestCase {
     }
     
     func testNewRound(){
-        game.startNewRound(points: 100)
+        game.startNewRound(points:100)
         XCTAssertEqual(game.score,100)
         XCTAssertEqual(game.round,2)
     }
 
 }
+
+
+            

@@ -24,13 +24,6 @@ struct Game {
         //        }
     
     
-            
-    
-        
-    
-    
-           
-        
         let difference: Int = abs(self.target - sldierValue)
         
         //        if difference < 0 {
@@ -48,4 +41,5 @@ struct Game {
     }
     
 }
+
 

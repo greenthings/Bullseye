@@ -62,3 +62,4 @@ struct BackgroundView_Previews: PreviewProvider {
         BackgroundView(game: .constant(Game()))
     }
 }
+
