@@ -18,9 +18,10 @@ struct ContentView: View {
             BackgroundView(game: $game)
             VStack {
                 InstructionView(game: $game)
-                SliderView(sliderValue: $sliderValue)
+                    .padding(.bottom,100)
                 HitMeButton(alertIsVisible: $alertIsVisible, sliderValue: $sliderValue, game: $game)
             }
+            SliderView(sliderValue: $sliderValue)
         }
         
     }
@@ -59,8 +60,11 @@ struct HitMeButton: View{
         .alert(isPresented: $alertIsVisible,
                content: {
                 let roundedVaule: Int = Int(self.sliderValue.rounded())
-                return Alert(title: Text("THE SLIDERS VALUE IS"), message: Text("You scored \(roundedVaule)." + "You scored \(self.game.point(sldierValue: roundedVaule)) points this round"), dismissButton: .default(Text("Start New Round")))
-                
+                let points = game.point(sldierValue: Int(sliderValue))
+                return Alert(title: Text("THE SLIDERS VALUE IS"), message: Text("Your sliderVulue is \(roundedVaule)." + "You scored \(points)) points this round"), dismissButton: .default(Text("Start New Round")){
+                    game.startNewRound(points: points )
+                    
+                })
                })
         
     }
@@ -82,10 +86,12 @@ struct SliderView: View{
 struct InstructionView: View{
     @Binding var game:Game
     var body: some View{
+        VStack{
         InstructionText(text: "🎯🎯🎯\nPut the bullseye as close as you can to")
             .padding(.leading, 30.0)
             .padding(.trailing, 30.0)
         BigNumberText(text:String(game.target))
+        }
     }
 }
 
