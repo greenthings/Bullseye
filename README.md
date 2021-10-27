@@ -60,7 +60,7 @@ https://www.figma.com/file/3MBMeYd2hP4rajTbHnZL0z/Bullseye?node-id=6%3A318
 
 # Fifth Result
 <p align = "center">
-<img src=https://user-images.githubusercontent.com/69499549/139021644-4655ba15-e5bc-4f14-a0e1-42a6bf900d36.png width="500">
+<img src=https://user-images.githubusercontent.com/69499549/139021994-fda9ec1a-21ec-4b7f-995e-d2b45e1e24c1.png width="500">
 </p>
 
 14. Make the alert message look pretty
