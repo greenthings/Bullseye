@@ -47,20 +47,26 @@ https://www.figma.com/file/3MBMeYd2hP4rajTbHnZL0z/Bullseye?node-id=6%3A318
 
 10. Caculate and display the score
 
+11. Implement multiple rounds
 
+12. Implement restarting the game
 
 # Fourth Result
 <p align = "center">
 <img src=https://user-images.githubusercontent.com/69499549/138555822-6f9fd150-249d-442f-a8ab-83114a38056a.png width="500">
 </p>
 
-11. Implement multiple rounds
+13. make the app look pretty
 
-13. Implement restarting the game
+# Fifth Result
+<p align = "center">
+<img src=https://user-images.githubusercontent.com/69499549/139021644-4655ba15-e5bc-4f14-a0e1-42a6bf900d36.png width="500">
+</p>
 
-13. Add the leaderboard screen
+14. Make the alert message look pretty
 
-14. make the app look pretty
+15. Add the leaderboard screen
+ 
 
 Tip) 15th Oct
 
