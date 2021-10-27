@@ -47,7 +47,6 @@ https://www.figma.com/file/3MBMeYd2hP4rajTbHnZL0z/Bullseye?node-id=6%3A318
 
 10. Caculate and display the score
 
-11. Implement multiple rounds
 
 
 # Fourth Result
@@ -55,7 +54,9 @@ https://www.figma.com/file/3MBMeYd2hP4rajTbHnZL0z/Bullseye?node-id=6%3A318
 <img src=https://user-images.githubusercontent.com/69499549/138555822-6f9fd150-249d-442f-a8ab-83114a38056a.png width="500">
 </p>
 
-12. Implement restarting the game
+11. Implement multiple rounds
+
+13. Implement restarting the game
 
 13. Add the leaderboard screen
 
