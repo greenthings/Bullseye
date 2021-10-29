@@ -12,7 +12,7 @@ struct ContentView: View {
     @State private var alertIsVisible: Bool = false
     @State private  var sliderValue: Double = 50.0
     @State private var game: Game = Game()
-    
+      
     var body: some View {
         ZStack {
             BackgroundView(game: $game)
@@ -21,12 +21,15 @@ struct ContentView: View {
                     .padding(.bottom, alertIsVisible ? 0: 100)
                 if alertIsVisible {
                     PointView(alertIsVisible: $alertIsVisible, sliderValue: $sliderValue, game: $game)
+                        .transition(.scale)
                 } else {
                     HitMeButton(alertIsVisible: $alertIsVisible, sliderValue: $sliderValue, game: $game)
+                        .transition(.scale)
                 }
             }
             if !alertIsVisible{
             SliderView(sliderValue: $sliderValue)
+                .transition(.scale)
             }
         }
         
@@ -42,8 +45,9 @@ struct HitMeButton: View{
     
     var body: some View{
         Button(action: {
-            print("It is worked")
+             withAnimation{
             self.alertIsVisible = true
+            }
         }) {
             Text("Hit me".uppercased())
                 .bold()
@@ -58,10 +62,10 @@ struct HitMeButton: View{
             }
         )
         .foregroundColor(Color.white)
-        .cornerRadius(21.0)
+        .cornerRadius(Constants.General.roundRectCornerRadius)
         .overlay(
-            RoundedRectangle(cornerRadius: 21.0)
-                .strokeBorder(Color.white,lineWidth: 2.0)
+            RoundedRectangle(cornerRadius:Constants.General.roundRectCornerRadius)
+                .strokeBorder(Color.white,lineWidth:Constants.General.strokeWidth)
         )
     }
 }
