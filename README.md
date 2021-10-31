@@ -75,8 +75,7 @@ https://www.figma.com/file/3MBMeYd2hP4rajTbHnZL0z/Bullseye?node-id=6%3A318
  
 # Simulator
 
-
-<video src=https://user-images.githubusercontent.com/69499549/139573267-13fc52d8-0d2f-406a-bf5c-c960acfd94b7.mp4 width="250">
+https://user-images.githubusercontent.com/69499549/139573267-13fc52d8-0d2f-406a-bf5c-c960acfd94b7.mp4 width="250"
 
 
 
