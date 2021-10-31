@@ -65,6 +65,12 @@ https://www.figma.com/file/3MBMeYd2hP4rajTbHnZL0z/Bullseye?node-id=6%3A318
 
 14. Make the alert message look pretty
 
+# Final Result
+
+<p align = "center">
+<img src=https://user-images.githubusercontent.com/69499549/139572547-1e3dd476-5689-423b-90cb-903287a5a7f0.png width="500">
+</p>
+
 15. Add the leaderboard screen
  
 
