@@ -76,7 +76,7 @@ https://www.figma.com/file/3MBMeYd2hP4rajTbHnZL0z/Bullseye?node-id=6%3A318
 # Simulator
 
 <p align = "center">
-<video src=https://user-images.githubusercontent.com/69499549/139573135-65504a1a-47c9-4958-af2d-9cfbe69211fb.mp4 width="500">
+<video controls width="250" src=https://user-images.githubusercontent.com/69499549/139573135-65504a1a-47c9-4958-af2d-9cfbe69211fb.mp4 width="500">
 </p>
 
 
