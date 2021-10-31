@@ -73,11 +73,9 @@ https://www.figma.com/file/3MBMeYd2hP4rajTbHnZL0z/Bullseye?node-id=6%3A318
 
 15. Add the leaderboard screen
  
+# Simulator
 
-
-
-
-
+https://user-images.githubusercontent.com/69499549/139572906-2c460c82-b2e2-42c4-ba3d-c7365f439d45.mp4
 
 
 
