@@ -19,6 +19,17 @@ struct Game {
     var round: Int = 1
     var leaderboardEntries: [LeaderboardEntry] = []
     
+    init(loadTestData: Bool = false){
+        if loadTestData{
+            leaderboardEntries.append(LeaderboardEntry(score: 100, date: Date()))
+            leaderboardEntries.append(LeaderboardEntry(score: 200, date: Date()))
+            leaderboardEntries.append(LeaderboardEntry(score: 300, date: Date()))
+            leaderboardEntries.append(LeaderboardEntry(score: 400, date: Date()))
+            leaderboardEntries.append(LeaderboardEntry(score: 500, date: Date()))
+            leaderboardEntries.append(LeaderboardEntry(score: 600, date: Date()))
+        }
+    }
+    
     func point(sldierValue: Int) -> Int {
         // If there is diffenrence, and the there is a bonus
         let difference = abs(self.target - sldierValue)
