@@ -2,19 +2,19 @@
 By Raywenderlich
 
 
-# Version
+## Version
 Swift 5, iOS 14, Xcode 12
 
-#Jira
+## Jira
 
 https://mnhfn8hj.atlassian.net/jira/software/projects/BUL/boards/1
 
-#Figma
+## Figma
 
 https://www.figma.com/file/3MBMeYd2hP4rajTbHnZL0z/Bullseye?node-id=6%3A318
 
 
-# First Result
+## First Result
 <p align = "center">
 <img src=https://user-images.githubusercontent.com/69499549/137239318-7e183db9-8b85-4a3f-9812-d60ff7f07ca9.png width="500">
 </p>
@@ -30,7 +30,7 @@ https://www.figma.com/file/3MBMeYd2hP4rajTbHnZL0z/Bullseye?node-id=6%3A318
 5. Add a "Hit me" button
 
 
-# Second Result
+## Second Result
 <p align = "center">
 <img src=https://user-images.githubusercontent.com/69499549/137445436-6fead735-08c6-469b-80df-d957a9bc1a19.png width="500">
 </p>
@@ -42,7 +42,7 @@ https://www.figma.com/file/3MBMeYd2hP4rajTbHnZL0z/Bullseye?node-id=6%3A318
 8. Read the value of the slider after the user taps the "Hit Me" Button
 
 
-# Third Result
+## Third Result
 <p align = "center">
 <img src=https://user-images.githubusercontent.com/69499549/138547709-3757b92e-c975-420b-ba4f-776d46711543.png width="500">
 </p>
@@ -55,21 +55,21 @@ https://www.figma.com/file/3MBMeYd2hP4rajTbHnZL0z/Bullseye?node-id=6%3A318
 
 12. Implement restarting the game
 
-# Fourth Result
+## Fourth Result
 <p align = "center">
 <img src=https://user-images.githubusercontent.com/69499549/138555822-6f9fd150-249d-442f-a8ab-83114a38056a.png width="500">
 </p>
 
 13. make the app look pretty
 
-# Fifth Result
+## Fifth Result
 <p align = "center">
 <img src=https://user-images.githubusercontent.com/69499549/139022207-344f4d78-6486-4ea2-a83c-4536659c44a2.png width="500">
 </p>
 
 14. Make the alert message look pretty
 
-# Final Result
+## Final Result
 
 <p align = "center">
 <img src=https://user-images.githubusercontent.com/69499549/139572547-1e3dd476-5689-423b-90cb-903287a5a7f0.png width="500">
@@ -77,7 +77,7 @@ https://www.figma.com/file/3MBMeYd2hP4rajTbHnZL0z/Bullseye?node-id=6%3A318
 
 15. Add the leaderboard screen
  
-# Simulator
+## Simulator
 
 https://user-images.githubusercontent.com/69499549/139573267-13fc52d8-0d2f-406a-bf5c-c960acfd94b7.mp4 
 
