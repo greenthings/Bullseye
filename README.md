@@ -1,6 +1,10 @@
 # Making_Bullseye
 By Raywenderlich
 
+
+# Version
+Swift 5, iOS 14, Xcode 12
+
 #Jira
 
 https://mnhfn8hj.atlassian.net/jira/software/projects/BUL/boards/1
