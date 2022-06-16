@@ -1,5 +1,4 @@
 ## Making_Bullseye
-By Raywenderlich
 
 
 ## Version
